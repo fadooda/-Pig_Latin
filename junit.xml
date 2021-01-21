@@ -1,0 +1,14 @@
+<testsuites name="jest tests" tests="5" failures="0" time="1.039">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-01-21T21:08:10" time="1.039" tests="5">
+    <testcase classname=" No Input" name=" No Input" time="0.012">
+    </testcase>
+    <testcase classname=" All special characters input with no english alphabet character" name=" All special characters input with no english alphabet character" time="0.002">
+    </testcase>
+    <testcase classname=" All special characters input with a single english alphabet character" name=" All special characters input with a single english alphabet character" time="0.002">
+    </testcase>
+    <testcase classname=" All special characters input with several words" name=" All special characters input with several words" time="0.002">
+    </testcase>
+    <testcase classname=" Vaild input" name=" Vaild input" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>
